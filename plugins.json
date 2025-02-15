@@ -334,4 +334,19 @@
         "author": "buding",
         "repo": "https://github.com/zouyonghe/astrbot_plugin_web_searcher_pro"
     }
+    "astrbot_plugin_video": {
+        "desc": "随机输出短视频",
+        "author": "lenorado",
+        "repo": "https://github.com/lenorado/astrbot_plugin_video"
+    }
+    "astrbot_plugin_rp": {
+        "desc": "输入rp随机返回人品数与评价",
+        "author": "lenorado",
+        "repo": "https://github.com/lenorado/astrbot_plugin_rp"
+    }
+    "astrbot_plugin_ruozhi": {
+        "desc": "随机输出一条贴吧帖子",
+        "author": "lenorado",
+        "repo": "https://github.com/lenorado/astrbot_plugin_ruozhi"
+    }
 }
