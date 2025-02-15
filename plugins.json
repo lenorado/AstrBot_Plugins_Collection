@@ -335,3 +335,21 @@
         "repo": "https://github.com/zouyonghe/astrbot_plugin_web_searcher_pro"
     }
 }
+    "astrbot_plugin_ruozhi": {
+        "desc": "随机返回一条贴吧帖子",
+        "author": "lenorado",
+        "repo": "https://github.com/lenorado/astrbot_plugin_ruozhi"
+    }
+}
+    "astrbot_plugin_rp": {
+        "desc": "为用户提供每日人品值和相应的运势描述",
+        "author": "lenorado",
+        "repo": "https://github.com/lenorado/astrbot_plugin_rp"
+    }
+}
+    "astrbot_plugin_video": {
+        "desc": "随机输出不同类型的短视频",
+        "author": "lenorado",
+        "repo": "https://github.com/lenorado/astrbot_plugin_video"
+    }
+}
